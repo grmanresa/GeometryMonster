@@ -724,6 +724,13 @@
         "name": "piso.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Bimbo_JVE.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Bimbo_JVE.ttf",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1092,8 +1099,8 @@
           "locked": false,
           "name": "Autor",
           "width": 0,
-          "x": 280,
-          "y": 940,
+          "x": 290,
+          "y": 920,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1107,7 +1114,7 @@
           "locked": false,
           "name": "Monster",
           "width": 0,
-          "x": 93,
+          "x": 90,
           "y": 891,
           "zOrder": 4,
           "numberProperties": [],
@@ -1142,8 +1149,8 @@
           "variables": [],
           "behaviors": [],
           "string": "Versión desarrollada por\nRodrigo Gastón Manresa\nLicencia GPL3 Soft Libre",
-          "font": "",
-          "characterSize": 30,
+          "font": "Bimbo_JVE.ttf",
+          "characterSize": 40,
           "color": {
             "b": 255,
             "g": 255,
@@ -4905,7 +4912,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.496
+        "zoomFactor": 0.64
       },
       "objectsGroups": [],
       "variables": [],
@@ -4942,13 +4949,13 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 681,
           "layer": "",
           "locked": false,
           "name": "Tutorial",
-          "width": 0,
-          "x": 65,
+          "width": 440,
+          "x": 150,
           "y": 280,
           "zOrder": 6,
           "numberProperties": [],
@@ -4982,8 +4989,8 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "     Es un divertido juego cuyo\n\n    objetivo es tratar de ayudar\n\n    a nuestro amigo Monster a\n\nrecoger las figuras geométricas\n\n que caen del cielo tratando de\n\n            evitar las bombas.\n\n   Desafía a un amigo para ver\n\nquien obtiene el mayor puntaje.",
-          "font": "",
+          "string": "    Es un divertido juego cuyo\n\n   objetivo es tratar de ayudar\n\n    a nuestro amigo Monster a\n\nrecoger las figuras geométricas\n\n que caen del cielo tratando de\n\n           evitar las bombas.\n\n   Desafía a un amigo para ver\n\nquien obtiene el mayor puntaje.",
+          "font": "Bimbo_JVE.ttf",
           "characterSize": 40,
           "color": {
             "b": 255,
